@@ -41,7 +41,6 @@
 
     }
    
-   
 
 
     .footerimg{
@@ -96,10 +95,9 @@
         height: 800px;
         width: 450px;
         background-color: beige;
-        background-image: linear-gradient( yellow, red);
+        
 
     }
-
     .cuadroB{
         height: 50px;
         width: 50px;
@@ -133,6 +131,7 @@
         height: 800px;
         width: 450px;
         background-color: beige;
+       
     }
 
     .cuadroD{
