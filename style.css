@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+    
+
+    
+    
+    
+    h1{
+
+    font-family: 'Oleo Script', cursive;
+    text-align: center;
+    font-size: 80px;
+    margin-right: 300px;
+    
+
+    }
+
+    ul li {
+    
+     display: inline;
+     font-size: 50px;
+     margin: 15px;
+     font-family: 'Oleo Script', cursive;
+     border:solid 1px black;
+     background-color: black;
+     color: aliceblue;
+     
+    }
+
+    footer{
+        background-color: rgb(66, 66, 66);
+        font-family: 'Oleo Script', cursive;
+        color: aliceblue;
+        height: 162px;
+        width: 1512px;
+       
+        
+
+    }
+   
+   
+
+
+    .footerimg{
+        text-align: right;
+
+    }
+    
+    .footerdireccion{
+        text-align: left;
+
+    }
+
+    .cuadrofotoprincipal{
+        height: 1512px;
+            width: 614px;
+            border: 1px;
+           margin-top: 5px;
+           
+    }
+
+    .foto{
+        background-image: url(https://w0.peakpx.com/wallpaper/149/675/HD-wallpaper-jack-daniels-whiskey-jack-daniels-ice-can.jpg );
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .marginbutton{
+        margin-bottom: 20px;
+    }
+
+    .displayA{
+        display: inline-block;
+    }
+
+    .displayB{
+        display: inline-block;
+    }
+
+    .marginA{
+        margin-bottom: 20px;
+
+    }
+
+    .marginB{
+        margin-bottom: 20px;
+    }
+
+    .cuadroA{
+        display: flex;
+        flex-wrap: wrap;
+        height: 800px;
+        width: 450px;
+        background-color: beige;
+        background-image: linear-gradient( yellow, red);
+
+    }
+
+    .cuadroB{
+        height: 50px;
+        width: 50px;
+        border: 1px;
+        margin: 50px;
+        background-color: gray;
+        
+    }
+
+
+    .p1{
+        text-align: center;
+
+    }
+
+    .p2{
+        text-align: center;
+    }
+         
+    .marginp12{
+        margin-bottom: 20px;
+    }
+
+    .p3{
+        text-align: center;
+    }
+
+    .cuadroC{
+        display: flex;
+        flex-wrap: wrap;
+        height: 800px;
+        width: 450px;
+        background-color: beige;
+    }
+
+    .cuadroD{
+        height: 50px;
+        width: 50px;
+        border: 1px;
+        margin: 50px;
+        background-color: gray;
+
+    }
